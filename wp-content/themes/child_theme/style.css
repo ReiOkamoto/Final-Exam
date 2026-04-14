@@ -1,0 +1,15 @@
+/*
+Theme Name:     child_theme
+Description:    
+Author:         ReiWordpress
+Template:       twentytwentythree
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.wp-block-post-title {
+  color: #c0392b;
+  font-family: "Georgia", "Times New Roman", serif;
+  font-weight: 700;
+}
+
